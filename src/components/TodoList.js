@@ -146,7 +146,7 @@ function App() {
           </Typography>
         )}
         
-        {/* Center the Add Task Button */}
+        
         <Grid container justifyContent="center" sx={{ mt: 2 }}>
           <Grid item>
             <Button
